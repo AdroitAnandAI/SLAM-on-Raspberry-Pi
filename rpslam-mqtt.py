@@ -1,6 +1,6 @@
 """
 
-This file as been modified etensively to implement SLAM in RPLidar
+This file as been modified extensively to implement SLAM in RPLidar
 
 Concepts taken from rpslam.py : BreezySLAM Python with SLAMTECH RP A1 Lidar
 https://github.com/simondlevy/BreezySLAM
