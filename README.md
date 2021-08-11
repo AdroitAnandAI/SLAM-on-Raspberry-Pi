@@ -1,6 +1,6 @@
 # SLAM on Raspberry Pi
 
-_Simultaneous Localization and Mapping (SLAM) with RP LIDAR A1 on Raspberry Pi with remote visualization using MQTT_
+_Simultaneous Localization and Mapping (SLAM) using RP LIDAR A1 on Raspberry Pi with remote visualization using MQTT_
 
 
 
