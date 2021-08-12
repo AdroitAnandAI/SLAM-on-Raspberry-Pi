@@ -2,7 +2,10 @@
 
 _Simultaneous Localization and Mapping (SLAM) using RP LIDAR A1 on Raspberry Pi with remote visualization using MQTT_
 
-
+<< blog link>>
+<<slam gif>>
+<<mqtt gif>>
+  
 
 ## How to use?
 
