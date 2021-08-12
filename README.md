@@ -32,7 +32,9 @@ python3 rpslam-mqtt.py
 ```
 
 Note: To enable save of the visualization map, please replace the **__init__.py** file in roboviz directory with the one in this repo and execute PyRoboViz setup script again from the PyRoboViz base directory, using the command below.
+```
 sudo python3 setup.py install
+```
 
 Before execution, create a directory named 'gif' inside the base directory of slam script to let the map images saved. These images are saved in time sequence so that a gif animation can be easily created.
 
