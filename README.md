@@ -41,7 +41,10 @@ Before execution, create a directory named 'gif' inside the base directory of sl
 
 If the MQTT visualization is slow, then the bytearray transfer might be the bottleneck. You can either connect the RPi to router using a LAN cable (to improve the speed) or reduce the dimensions of the map to reduce the size of the bytearray. Instead you can reduce the MQTT publish frequency as well.
 
-
-
+# References
+1. https://github.com/simondlevy/BreezySLAM
+2. https://github.com/simondlevy/PyRoboViz
+3. https://www.udacity.com/course/computer-vision-nanodegree--nd891
+4. https://www.thinkautonomous.ai/blog/?p=lidar-and-camera-sensor-fusion-in-self-driving-cars
 
 
