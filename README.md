@@ -64,7 +64,9 @@ Let's discuss the theory behind GraphSLAM and see a custom implementation. Then 
 
 See the SLAM gadget below: **RaspberryPi integrated with RPLidar A1 M8, running on a 5V 3A battery.**
 
-![SLAM Assembled Device](images/slam.gif)
+<p align="center">
+  <img src="images/slam.gif" />
+</p>
 
 
 ### Graph SLAM Algorithm
