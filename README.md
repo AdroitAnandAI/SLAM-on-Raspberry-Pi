@@ -20,7 +20,7 @@ First, lets see SLAM in action and then the theory behind. SLAM is deployed on a
   
 ## Watch Project Demo
 
-[![Watch Project Demo](https://img.youtube.com/vi/HrBcQpvx8gg/maxresdefault.jpg)](https://youtu.be/HrBcQpvx8gg)
+[![Watch Project Demo](images/thumbnail_preview.png)](https://youtu.be/HrBcQpvx8gg)
 
 
 ## How to use this repo?
