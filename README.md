@@ -2,7 +2,8 @@
 
 _Simultaneous Localization and Mapping (SLAM) Navigation using RP LIDAR A1 on RPi with MQTT remote point cloud visualization_
 
-<< blog link>>
+Project Blog here:
+https://medium.com/towards-data-science/indoor-robot-localization-with-slam-f8b447bcb865
 
 SLAM (Simultaneous Localization And Mapping) algorithms use **LiDAR and IMU data to simultaneously locate the robot in real-time and generate a coherent map of surrounding landmarks such as buildings, trees, rocks, and other world features, at the same time.**
 
